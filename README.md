@@ -12,7 +12,7 @@ Contact:
 Projects:
 
 - <https://while-true-do.io>
-- <httpd://style-cheat.io>
+- <https://style-cheat.io>
 
 Media:
 
