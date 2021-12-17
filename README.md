@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**dschier-wtd/dschier-wtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Ansible, Kubernetes and whatever comes around.
+- 🌱 I’m currently learning to code... Yes... Really.
 
-Here are some ideas to get you started:
+Contact:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mail: <mailto:dschier@while-true-do.io>
+- Site: <https://while-true-do.io>
+- Blog: <https://blog.while-true-do.io>
+
+Projects:
+
+- <https://while-true-do.io>
+- <httpd://style-cheat.io>
+
+Media:
+
+- Twitter: <https://twitter.com/dschier_wtd>
+- LinkedIn: <https://de.linkedin.com/in/dschier>
