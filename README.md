@@ -11,8 +11,8 @@
 
 ### Projects
 
-- <https://while-true-do.io>
-- <https://style-cheat.io>
+- while-true-do.io: <https://while-true-do.io>
+- style-cheat.io: <https://style-cheat.io>
 
 ### Social
 
