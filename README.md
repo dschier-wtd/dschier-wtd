@@ -8,6 +8,7 @@
 - Mail: [dschier@while-true-do.io](mailto:dschier@while-true-do.io)
 - Site: <https://while-true-do.io>
 - Blog: <https://blog.while-true-do.io>
+- Work: <https://wandelbots.com>
 
 ### Projects
 
