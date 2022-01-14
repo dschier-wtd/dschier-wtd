@@ -1,0 +1,19 @@
+---
+name: "Latest blog.while-true-do.io blog"
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: "Update this repo's README with latest blog posts"
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: "Checkout"
+        uses: "actions/checkout@v2"
+      - name: "Pull in blog.while-true-do.io posts"
+        uses: "gautamkrishnar/blog-post-workflow@master"
+        with:
+          feed_list: "https://blog.while-true-do.io/author/dschier/rss/"
+...
