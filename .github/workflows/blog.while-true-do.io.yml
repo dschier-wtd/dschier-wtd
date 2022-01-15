@@ -1,5 +1,6 @@
 ---
 name: "Latest blog.while-true-do.io blog"
+# yamllint disable-line rule:truthy
 on:
   schedule:
     - cron: '0 0 * * *'

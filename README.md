@@ -1,4 +1,4 @@
-# Hi there :wave: :heart:
+# Hi there
 
 It's awesome, that you are reading about me. I am honored, that my content seems
 to be interesting to you. Let me introduce myself:
@@ -7,7 +7,7 @@ to be interesting to you. Let me introduce myself:
   [Kubernetes](https://kubernetes.io) and [Fedora Linux](https://getfedora.org).
 - :pencil: I use [vim](https://www.vim.org/) and
   [VSCode](https://code.visualstudio.com/) for my editing and coding, mostly.
-- :briefcase: I am currently working as a "DevOps" engineer at 
+- :briefcase: I am currently working as a "DevOps" engineer at
   [Wandelbots](https://wandelbots.com)
 - :school: I want to learn much more about
   [Python](https://www.python.org/) and [Go](https://go.dev/).
