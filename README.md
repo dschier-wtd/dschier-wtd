@@ -31,7 +31,8 @@ you can find me in the below communities.
 - Organizer of [Dresden OpenSource UserGroup](https://ddosug.org)
 - Co-Organizer of
   [Ansible Meetup Dresden](https://www.meetup.com/Ansible-Meetup-Dresden/)
-- [Presenting](https://github.com/dschier-wtd/presentations/) on conferences and event
+- [Giving Presentations](https://github.com/dschier-wtd/presentations/) on
+  conferences and events
 
 ## :book: Writing
 
