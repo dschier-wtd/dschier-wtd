@@ -1,5 +1,17 @@
 # Hi there
 
+Let me say two things beforehand:
+
+War ist **NOT** the right answer! It is never the right answer. It was not the
+right thing to do in Serbia, Syria, Afghanistan or Iraq, and it is also not the
+right thing to do in Ukraine. If you want to do something with weapons,
+disassemble them and make something useful out of it.
+
+And you can do more than praying, you can
+[take action](https://www.goodgoodgood.co/articles/how-to-help-ukraine).
+
+## :man: Introduction
+
 It's awesome, that you are reading about me. I am honored, that my content seems
 to be interesting to you. Let me introduce myself:
 
@@ -55,6 +67,15 @@ I would love to connect with you and get in touch.
 - :envelope: [dschier@while-true-do.io](mailto:dschier@while-true-do.io)
 - :bird: <https://twitter.com/dschier_wtd>
 - :technologist: <https://de.linkedin.com/in/dschier>
+
+## :clap: Sponsoring
+
+I am actively contributing and sponsoring Open Source and other meaningful
+projects. You can do the same, if you want.
+
+- [GNOME Foundation](https://www.gnome.org/donate/)
+- [FreeBSD Foundation](https://freebsdfoundation.org/donate)
+- [Wikimedia Foundation](https://wikimediafoundation.org/support/)
 
 ---
 
