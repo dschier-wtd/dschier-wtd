@@ -53,11 +53,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Fedora - Home Server &lpar;Automation&rpar;](https://blog.while-true-do.io/fedora-home-server-automation/)
 - [Kubernetes - Getting Started &lpar;2/2&rpar;](https://blog.while-true-do.io/kubernetes-getting-started-2/)
 - [Kubernetes - Getting Started &lpar;1/2&rpar;](https://blog.while-true-do.io/kubernetes-getting-started-1/)
 - [Project - Moving to GitHub](https://blog.while-true-do.io/project-moving-to-github/)
 - [Fedora - Home Server &lpar;Hardware &amp; OS&rpar;](https://blog.while-true-do.io/fedora-home-server-hardware-os/)
-- [Bash - Prompt and Colors](https://blog.while-true-do.io/bash-prompt-and-colors/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
