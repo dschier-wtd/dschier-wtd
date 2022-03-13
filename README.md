@@ -66,7 +66,7 @@ I would love to connect with you and get in touch.
 
 - :envelope: [dschier@while-true-do.io](mailto:dschier@while-true-do.io)
 - :bird: <https://twitter.com/dschier_wtd>
-- :elephant: <https://norden.social/@dschier>
+- :elephant: <a rel="me" href="https://norden.social/@dschier">https://norden.social/@dschier</a>
 - :technologist: <https://de.linkedin.com/in/dschier>
 
 ## :clap: Sponsoring
