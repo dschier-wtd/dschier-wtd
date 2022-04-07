@@ -53,11 +53,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Podman - Compose](https://blog.while-true-do.io/podman-compose/)
 - [Fedora - Home Server &lpar;Management&rpar;](https://blog.while-true-do.io/fedora-home-server-management/)
 - [Spotlight - Fedora Silverblue](https://blog.while-true-do.io/spotlight-fedora-silverblue/)
 - [Bash - Powerline-Go](https://blog.while-true-do.io/bash-powerline-go/)
 - [Kickstart - Getting Started](https://blog.while-true-do.io/kickstart-getting-started/)
-- [Fedora - Home Server &lpar;Automation&rpar;](https://blog.while-true-do.io/fedora-home-server-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
