@@ -68,7 +68,7 @@ I would love to connect with you and get in touch.
 - :bird: [Twitter](https://twitter.com/dschier_wtd)
 - :elephant: [Mastodon](https://norden.social/@dschier)
 - :technologist: [LinkedIn](https://de.linkedin.com/in/dschier)
-- :bulb: [Udemy](https://www.udemy.com/user/daniel-wtd/)
+- :bulb: [Udemy](https://www.udemy.com/user/dschier/)
 
 ## :clap: Sponsoring
 
