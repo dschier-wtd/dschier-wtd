@@ -53,11 +53,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Fedora - Home Server &lpar;Virtualization 1/2&rpar;](https://blog.while-true-do.io/fedora-home-server-virtualization-1/)
 - [Release - Fedora Linux 36](https://blog.while-true-do.io/release-fedora-linux-36/)
 - [Container - Smaller Images](https://blog.while-true-do.io/container-smaller-images/)
 - [Ansible - Roles 1/2](https://blog.while-true-do.io/ansible-roles-1/)
 - [Podman - Compose](https://blog.while-true-do.io/podman-compose/)
-- [Fedora - Home Server &lpar;Management&rpar;](https://blog.while-true-do.io/fedora-home-server-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
