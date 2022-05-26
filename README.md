@@ -53,11 +53,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud-Init - Getting Started](https://blog.while-true-do.io/cloud-init-getting-started/)
 - [Ansible - Roles 2/2 &lpar;Glances Role&rpar;](https://blog.while-true-do.io/ansible-roles-2/)
 - [Fedora - Home Server &lpar;Virtualization 2/2&rpar;](https://blog.while-true-do.io/fedora-home-server-virtualization-2/)
 - [Fedora - Home Server &lpar;Virtualization 1/2&rpar;](https://blog.while-true-do.io/fedora-home-server-virtualization-1/)
 - [Release - Fedora Linux 36](https://blog.while-true-do.io/release-fedora-linux-36/)
-- [Container - Smaller Images](https://blog.while-true-do.io/container-smaller-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
