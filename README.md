@@ -53,11 +53,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotlight - Steam Deck](https://blog.while-true-do.io/spotlight-steam/)
 - [Fedora - Home Server &lpar;Container&rpar;](https://blog.while-true-do.io/fedora-home-server-container/)
 - [Podman - Graphical Interfaces &lpar;for Terminal, Desktop and Server&rpar;](https://blog.while-true-do.io/podman-graphical-interfaces/)
 - [Bash - Starship Prompt](https://blog.while-true-do.io/bash-starship-prompt/)
 - [Cloud-Init - Getting Started](https://blog.while-true-do.io/cloud-init-getting-started/)
-- [Ansible - Roles 2/2 &lpar;Glances Role&rpar;](https://blog.while-true-do.io/ansible-roles-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
