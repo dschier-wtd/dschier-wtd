@@ -41,6 +41,8 @@ I really love to connect with others and learn about new things. Therefore,
 you can find me in the below communities.
 
 - Organizer of [Dresden OpenSource UserGroup](https://ddosug.org)
+- Organizer of
+  [Kubernetes and Cloud Native Group Dresden](https://www.meetup.com/de-DE/kubernetes-and-cloud-native-group-dresden/)
 - Co-Organizer of
   [Ansible Meetup Dresden](https://www.meetup.com/Ansible-Meetup-Dresden/)
 - [Giving Presentations](https://github.com/dschier-wtd/presentations/) on
