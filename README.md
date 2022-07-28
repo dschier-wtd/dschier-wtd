@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps - Core and Context Work](https://blog.while-true-do.io/devops-core-and-context-work/)
 - [Ansible - Prompts](https://blog.while-true-do.io/ansible-prompts/)
 - [KVM - Getting Started](https://blog.while-true-do.io/kvm-getting-started/)
 - [Podman - Local Container Registry](https://blog.while-true-do.io/podman-local-container-registry/)
 - [DevOps - Introduction](https://blog.while-true-do.io/devops-introduction/)
-- [Spotlight - Steam Deck](https://blog.while-true-do.io/spotlight-steam/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
