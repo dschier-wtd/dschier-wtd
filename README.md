@@ -19,7 +19,7 @@ to be interesting to you. Let me introduce myself:
   [Kubernetes](https://kubernetes.io) and [Fedora Linux](https://getfedora.org).
 - :pencil: I use [vim](https://www.vim.org/) and
   [VSCode](https://code.visualstudio.com/) for my editing and coding, mostly.
-- :briefcase: I am currently working as a "DevOps" engineer at
+- :briefcase: I am currently working as a "DevOps engineer" at
   [Wandelbots](https://wandelbots.com)
 - :school: I want to learn much more about
   [Python](https://www.python.org/) and [Go](https://go.dev/).
@@ -71,6 +71,7 @@ I would love to connect with you and get in touch.
 - :elephant: [Mastodon](https://norden.social/@dschier)
 - :technologist: [LinkedIn](https://de.linkedin.com/in/dschier)
 - :bulb: [Udemy](https://www.udemy.com/user/dschier/)
+- :bar_chart: [Wakatime](https://wakatime.com/@dschier/)
 
 ## :clap: Sponsoring
 
@@ -82,5 +83,13 @@ projects. You can do the same, if you want.
 - [Wikimedia Foundation](https://wikimediafoundation.org/support/)
 
 ---
+
+## :bar_chart: Stats
+
+Finally, some statistics if this is for you.
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dschier)](https://wakatime.com/@dschier)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschier-wtd&layout=compact)](https://github.com/dschier)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dschier-wtd&count_private=true&show_icons=true&include_all_commits=true)
