@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Git - Strategies](https://blog.while-true-do.io/git-strategies/)
 - [Linux - The fundamentals](https://blog.while-true-do.io/linux-the-fundamentals/)
 - [DevOps - The three ways](https://blog.while-true-do.io/devops-the-three-ways/)
 - [Fedora - Home Server &lpar;Time, DHCP, DNS Server 1/2&rpar;](https://blog.while-true-do.io/fedora-home-server-time-dhcp-dns-1/)
 - [Containers - Behind the curtain](https://blog.while-true-do.io/containers-behind-the-curtain/)
-- [Fedora - System Upgrade](https://blog.while-true-do.io/fedora-system-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
