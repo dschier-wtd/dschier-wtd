@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Release - Fedora Linux 37](https://blog.while-true-do.io/release-fedora-linux-37/)
 - [Vacation Time](https://blog.while-true-do.io/vacation-time-2022/)
 - [Spotlight - Fedora Kinoite](https://blog.while-true-do.io/spotlight-fedora-kinoite/)
 - [Git - Strategies](https://blog.while-true-do.io/git-strategies/)
 - [Linux - The fundamentals](https://blog.while-true-do.io/linux-the-fundamentals/)
-- [DevOps - The three ways](https://blog.while-true-do.io/devops-the-three-ways/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
