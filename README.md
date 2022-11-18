@@ -89,6 +89,4 @@ Finally, some statistics if this is for you.
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dschier)](https://wakatime.com/@dschier)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschier-wtd&layout=compact)](https://github.com/dschier)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dschier-wtd&count_private=true&show_icons=true&include_all_commits=true)
