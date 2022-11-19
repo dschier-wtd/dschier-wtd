@@ -67,7 +67,7 @@ about my writing, please feel free to check out my latest articles.
 I would love to connect with you and get in touch.
 
 - :envelope: [dschier@while-true-do.io](mailto:dschier@while-true-do.io)
-- :elephant: [Mastodon](https://fosstodon.org/@dschier)
+- :elephant: <a rel="me" href="https://fosstodon.org/@dschier">Mastodon</a>
 - :technologist: [LinkedIn](https://de.linkedin.com/in/dschier)
 - :bulb: [Udemy](https://www.udemy.com/user/dschier/)
 - :bar_chart: [Wakatime](https://wakatime.com/@dschier/)
