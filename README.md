@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Fedora - Home Server &lpar;Git Server&rpar;](https://blog.while-true-do.io/fedora-home-server-git-server/)
 - [Fedora - My Workstation Setup](https://blog.while-true-do.io/fedora-my-workstation-setup/)
 - [Fedora - Home Server &lpar;Time, DHCP, DNS Server 2/2&rpar;](https://blog.while-true-do.io/fedora-home-server-time-dhcp-dns-server-2-2/)
 - [Podman - Configure VS Code for containers](https://blog.while-true-do.io/podman-configure-vscode-for-containers/)
 - [Release - Fedora Linux 37](https://blog.while-true-do.io/release-fedora-linux-37/)
-- [Vacation Time](https://blog.while-true-do.io/vacation-time-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
