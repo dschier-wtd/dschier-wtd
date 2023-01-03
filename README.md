@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps - 4 Types of Work](https://blog.while-true-do.io/devops-4-types-of-work/)
 - [DIY - My first custom keyboard](https://blog.while-true-do.io/diy-my-first-custom-keyboard/)
 - [Fedora - Home Server &lpar;File, Calendar, Contact Sync&rpar;](https://blog.while-true-do.io/fedora-home-server-file-calendar-contact-sync/)
 - [Fedora - Home Server &lpar;Git Server&rpar;](https://blog.while-true-do.io/fedora-home-server-git-server/)
 - [Fedora - My Workstation Setup](https://blog.while-true-do.io/fedora-my-workstation-setup/)
-- [Fedora - Home Server &lpar;Time, DHCP, DNS Server 2/2&rpar;](https://blog.while-true-do.io/fedora-home-server-time-dhcp-dns-server-2-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
