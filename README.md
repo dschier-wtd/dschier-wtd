@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Security - Physical Security](https://blog.while-true-do.io/security-physical-security/)
 - [GPG - Getting Started 1/2](https://blog.while-true-do.io/gpg-getting-started-1/)
 - [DevOps - 5 Ideals](https://blog.while-true-do.io/devops-5-ideals/)
 - [Kubernetes - k3s on AlmaLinux](https://blog.while-true-do.io/kubernetes-k3s-on-almalinux/)
 - [Security - Getting Started](https://blog.while-true-do.io/security-getting-started/)
-- [Spotlight - Alternatives for YouTube, Twitter, Instagram and more](https://blog.while-true-do.io/spotlight-alternatives-for-youtube-twitter-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
