@@ -17,12 +17,13 @@ to be interesting to you. Let me introduce myself:
 
 - :hammer: I love to work with [Ansible](https://www.ansible.com),
   [Kubernetes](https://kubernetes.io) and [Fedora Linux](https://getfedora.org).
-- :pencil: I use [vim](https://www.vim.org/) and
+- :pencil: I use [micro](https://micro-editor.github.io/) and
   [VSCode](https://code.visualstudio.com/) for my editing and coding, mostly.
-- :briefcase: I am currently working as a "DevOps engineer" at
-  [Wandelbots](https://wandelbots.com)
+- :briefcase: I am working as a "DevOps engineer" at
+  [Wandelbots](https://wandelbots.com).
 - :school: I want to learn much more about
-  [Python](https://www.python.org/) and [Go](https://go.dev/).
+  [Python](https://www.python.org/), [JavaScript](https://www.javascript.com/)
+  and [Go](https://go.dev/).
 - :telescope: I like to collaborate with other content creators.
 - :lotus_position_man: I like to meditate, watching movies, cookies, cats and
   penguins.
@@ -37,8 +38,8 @@ summary of the more permanent contributions.
 
 ## :handshake: Community
 
-I really love to connect with others and learn about new things. Therefore,
-you can find me in the below communities.
+I really love to connect with others and learn new things. Therefore, you can
+find me in the below communities.
 
 - Organizer of [Dresden OpenSource UserGroup](https://ddosug.org)
 - Organizer of
@@ -67,10 +68,11 @@ about my writing, please feel free to check out my latest articles.
 I would love to connect with you and get in touch.
 
 - :envelope: [dschier@while-true-do.io](mailto:dschier@while-true-do.io)
-- :elephant: <a rel="me" href="https://fosstodon.org/@dschier">Mastodon</a>
+- :elephant: [Mastodon](https://fosstodon.org/@dschier)
 - :technologist: [LinkedIn](https://de.linkedin.com/in/dschier)
-- :bulb: [Udemy](https://www.udemy.com/user/dschier/)
+- :question: [Stackoverflow]](https://stackoverflow.com/users/20810535/dschier)
 - :bar_chart: [Wakatime](https://wakatime.com/@dschier/)
+- :bulb: [Udemy](https://www.udemy.com/user/dschier/)
 
 ## :clap: Sponsoring
 
@@ -80,6 +82,7 @@ projects. You can do the same, if you want.
 - [GNOME Foundation](https://www.gnome.org/donate/)
 - [FreeBSD Foundation](https://freebsdfoundation.org/donate)
 - [Wikimedia Foundation](https://wikimediafoundation.org/support/)
+- [Computertruhe](https://computertruhe.de/)
 
 ---
 
