@@ -56,11 +56,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps - 5 Principles](https://blog.while-true-do.io/devops-5-principles/)
 - [Spotlight - Catppuccin](https://blog.while-true-do.io/spotlight-catppuccin/)
 - [GPG - Getting Started 2/2](https://blog.while-true-do.io/gpg-getting-started-2/)
 - [Release - Fedora 38](https://blog.while-true-do.io/release-fedora-38/)
 - [IoT/Edge - Fedora + Ansible + Podman](https://blog.while-true-do.io/iot-fedora-ansible-podman/)
-- [Security - Physical Security](https://blog.while-true-do.io/security-physical-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
