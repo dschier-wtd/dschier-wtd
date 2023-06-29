@@ -56,11 +56,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps - How to become a -10x engineer](https://blog.while-true-do.io/devops-how-to-become-a-10x-engineer/)
 - [Ansible - Collections 1/2 &lpar;Usage&rpar;](https://blog.while-true-do.io/ansible-collections-1-usage/)
 - [Git - Large File Storage](https://blog.while-true-do.io/git-large-file-storage/)
 - [Podman - Encrypted Images](https://blog.while-true-do.io/podman-encrypted-images/)
 - [DevOps - 5 Principles](https://blog.while-true-do.io/devops-5-principles/)
-- [Spotlight - Catppuccin](https://blog.while-true-do.io/spotlight-catppuccin/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
