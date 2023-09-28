@@ -56,11 +56,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps - Lifecycle](https://blog.while-true-do.io/devops-software-development-lifecycle/)
 - [Ansible - Community Day Berlin](https://blog.while-true-do.io/ansible-community-day-berlin/)
 - [Ansible - Notify the right way](https://blog.while-true-do.io/ansible-notify-the-right-way/)
 - [Linux - What about Red Hat and Open Source?](https://blog.while-true-do.io/linux-what-about-red-hat-and-open-source/)
 - [Ansible - Collections 2/2 &lpar;developing&rpar;](https://blog.while-true-do.io/ansible-collections-2-developing/)
-- [DevOps - How to become a -10x engineer](https://blog.while-true-do.io/devops-how-to-become-a-10x-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
