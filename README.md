@@ -56,11 +56,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Release - Raspberry Pi OS &lpar;Bookworm&rpar;](https://blog.while-true-do.io/release-raspberry-pi-os/)
 - [Spotlight - Ansible Semaphore](https://blog.while-true-do.io/spotlight-ansible-semaphore/)
 - [Steam Deck - One year later](https://blog.while-true-do.io/steam-deck-one-year-later/)
 - [Podman - Web UI &lpar;via Cockpit&rpar;](https://blog.while-true-do.io/podman-web-ui-via-cockpit/)
 - [Release - Raspberry Pi 5](https://blog.while-true-do.io/release-raspberry-pi-5/)
-- [DevOps - Lifecycle](https://blog.while-true-do.io/devops-software-development-lifecycle/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
