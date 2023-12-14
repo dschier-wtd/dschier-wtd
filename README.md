@@ -56,11 +56,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps - plain/text &lpar;1/2&rpar;](https://blog.while-true-do.io/devops-plaintext-1/)
 - [Spotlight - ARA records Ansible](https://blog.while-true-do.io/spotlight-ara-records-ansible/)
 - [Featuring - Luca Berton](https://blog.while-true-do.io/featuring-luca-berton/)
 - [Podman - Remote Management](https://blog.while-true-do.io/podman-remote-management/)
 - [Spotlight - Steampunk Spotter &lpar;Ansible&rpar;](https://blog.while-true-do.io/spotlight-steampunk-spotter-ansible/)
-- [Release - Fedora Linux 39](https://blog.while-true-do.io/release-fedora-linux-39/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
