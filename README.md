@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Offtopic - 3 years of blogging](https://blog.while-true-do.io/offtopic-3-years-of-blogging/)
 - [Linux - Laptop vendors 2023](https://blog.while-true-do.io/linux-laptop-vendors-2023/)
 - [DevOps - plain/text &lpar;2/2&rpar;](https://blog.while-true-do.io/devops-plain-text-2-2/)
 - [DevOps - plain/text &lpar;1/2&rpar;](https://blog.while-true-do.io/devops-plaintext-1/)
 - [Spotlight - ARA records Ansible](https://blog.while-true-do.io/spotlight-ara-records-ansible/)
-- [Featuring - Luca Berton](https://blog.while-true-do.io/featuring-luca-berton/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
