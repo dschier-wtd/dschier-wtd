@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Git - Signing your Work](https://blog.while-true-do.io/git-signing-your-work/)
 - [Ansible - Vault](https://blog.while-true-do.io/ansible-vault/)
 - [Systemd - systemctl &lpar;including Cheat Sheet&rpar;](https://blog.while-true-do.io/systemd-systemctl/)
 - [Podman - Quadlets](https://blog.while-true-do.io/podman-quadlets/)
 - [Offtopic - 3 years of blogging](https://blog.while-true-do.io/offtopic-3-years-of-blogging/)
-- [Linux - Laptop vendors 2023](https://blog.while-true-do.io/linux-laptop-vendors-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
