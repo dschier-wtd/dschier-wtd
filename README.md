@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps - DORA Metrics](https://blog.while-true-do.io/devops-dora-metrics/)
 - [Podman - Multi-Arch Images](https://blog.while-true-do.io/podman-multi-arch-images/)
 - [Spotlight - GNOME OS](https://blog.while-true-do.io/spotlight-gnome-os/)
 - [Git - Signing your Work](https://blog.while-true-do.io/git-signing-your-work/)
 - [Ansible - Vault](https://blog.while-true-do.io/ansible-vault/)
-- [Systemd - systemctl &lpar;including Cheat Sheet&rpar;](https://blog.while-true-do.io/systemd-systemctl/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
