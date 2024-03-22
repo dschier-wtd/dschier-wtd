@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux - Red Hat family in 2024](https://blog.while-true-do.io/linux-red-hat-family-in-2024/)
 - [Spotlight - Alternatives to Google DNS](https://blog.while-true-do.io/spotlight-alternatives-for-google-dns/)
 - [Ansible - Console](https://blog.while-true-do.io/ansible-console/)
 - [DevOps - DORA Metrics](https://blog.while-true-do.io/devops-dora-metrics/)
 - [Podman - Multi-Arch Images](https://blog.while-true-do.io/podman-multi-arch-images/)
-- [Spotlight - GNOME OS](https://blog.while-true-do.io/spotlight-gnome-os/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
