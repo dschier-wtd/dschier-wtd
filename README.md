@@ -55,11 +55,11 @@ of [blog.while-true-do.io](https://blog.while-true-do.io). If you are curios
 about my writing, please feel free to check out my latest articles.
 
 <!-- BLOG-POST-LIST:START -->
+- [Container - GTK tools](https://blog.while-true-do.io/container-gtk-tools/)
 - [Featuring - Ethan Sholly](https://blog.while-true-do.io/featuring-ethan-sholly/)
 - [AlmaLinux OS - Samba File Server](https://blog.while-true-do.io/almalinux-os-samba-file-server/)
 - [AlmaLinux OS - Kiosk Mode](https://blog.while-true-do.io/almalinux-kiosk-mode/)
 - [Release - Fedora 40](https://blog.while-true-do.io/release-fedora-40/)
-- [Ansible - AWX 2/2](https://blog.while-true-do.io/ansible-awx-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :left_speech_bubble: Connect with me
